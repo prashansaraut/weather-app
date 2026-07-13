@@ -16,11 +16,7 @@ A responsive weather application built using HTML, CSS, and JavaScript that fetc
 - JavaScript (ES6)
 - Weather API
 
-## Screenshots
-(Add screenshots here)
 
-## Live Demo
-(Add your GitHub Pages link here)
 
 ## Author
 Prashansa Raut
